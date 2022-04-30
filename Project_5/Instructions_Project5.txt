@@ -1,0 +1,24 @@
+Instructions to run the Project_5
+
+1)Create User
+Now Create a connection and login as course management admin and run the below scripts by that user{username-Course_Management_Admin,pswd-Admin123456789}
+2)Drop_Table_Script
+3)Table_Creation_DDL
+4)Index
+5)Sequence_Creation
+6)Onboarding_Package_Declaration
+7)Onboarding_DMLProcedure
+8)Onboarding_InsertData
+9)Trigger
+10)Views
+11)Grant Access
+Now Create a connection and login as professor1(username-Professor1,pswd-Admin12345678)
+12)Professor_TestCase
+Now Create a connection and login as Student1
+13)Student_TestCase
+Now again login as Course_Management_Admin
+14)Reports
+15)SequenceDrop
+Now Logout from Course_Management_Admin 
+16)Remove Users
+
