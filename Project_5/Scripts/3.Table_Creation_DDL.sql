@@ -1,5 +1,3 @@
-
-
 SET SERVEROUTPUT ON;
 
 DECLARE
@@ -336,4 +334,3 @@ COMMIT;
 
 END;
 /
-
